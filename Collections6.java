@@ -12,6 +12,7 @@ public class Collections6 {
             System.out.println(s);
             s.set(0, "dec");
             System.out.println(s);
+            System.out.println("ABC");
         }
         catch (Exception e) {
             System.out.println(e);
