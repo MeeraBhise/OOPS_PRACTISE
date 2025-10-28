@@ -27,6 +27,7 @@ public class Collection4 {
         finally{
             s.contains(8);
             System.out.println("file is read only");
+            System.out.println("meera1");
         }
     }
 }
