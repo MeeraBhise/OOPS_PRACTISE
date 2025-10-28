@@ -13,6 +13,7 @@ public class Collections6 {
             s.set(0, "dec");
             System.out.println(s);
             System.out.println("111");
+            System.out.println("mnbv");
         }
         catch (Exception e) {
             System.out.println(e);
